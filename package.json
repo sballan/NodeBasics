@@ -1,0 +1,22 @@
+{
+  "name": "node-basics-treehouse",
+  "version": "1.0.0",
+  "description": "An Assignment for Fullstack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sballan/NodeBasics.git"
+  },
+  "keywords": [
+    "Assignment"
+  ],
+  "author": "Samuel Ballan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sballan/NodeBasics/issues"
+  },
+  "homepage": "https://github.com/sballan/NodeBasics#readme"
+}
